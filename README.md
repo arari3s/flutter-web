@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/arari3s/flutter-web/blob/c6204acbe1e26fd28aad4266285b5d4aa001f357/assets/view.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
